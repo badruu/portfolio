@@ -1,0 +1,30 @@
+body {
+  background-color: #050100;
+}
+
+h1 {
+  font-style:normal;
+  font-family:monospace;
+  color: #d83a03;
+  text-decoration: underline;
+  text-align: center;
+}
+h2 {
+  font-weight: bold;
+  font-family: monospace;
+  color: #d83a03;
+  text-decoration: overline;
+  text-decoration: underline;
+  text-indent: 18em;
+}
+p {
+  font-family: monospace;
+  font-size: 12pt;
+  color: white;
+}
+h3 {
+  color: white;
+}
+ul {
+  color: white;
+}
